@@ -1,0 +1,36 @@
+.bu_help_provider_container {
+    position: relative;
+    overflow-y: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 1.875rem;
+}
+.bu_help_button_1 {
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #D6A800;
+    color: #ffffff;
+    font-weight: 700;
+}
+.bu_help_button_1:hover {
+    background-color: #4F3674;
+}
+.bu_help_link_1 {
+    color: #4F3674;
+    font-weight: 700;
+}
+.bu_link_div {
+    padding-bottom: 5px;
+}
+.bu_help_p_c1 h3 {
+    border-top: 1px solid #262626;
+    padding-top: 15px;
+    font-size: 1.2rem;
+}
+.bu_help_p_c2 {
+    padding-bottom: 15px;
+}
+.bu_help_p_c2 h3 {
+    font-size: 1.2rem;
+}

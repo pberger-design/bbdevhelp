@@ -1,0 +1,27 @@
+.bu_help_provider_container {
+    position: relative;
+    overflow-y: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 1.875rem;
+}
+.bu_instructor_card {
+    padding: 5px;
+    border: 1px solid #cdcdcd;
+}
+.bu_instructor_head {
+    font-weight: 700;
+}
+.bu_instructor_p_c1 > h3 {
+    font-size: 1.2rem;
+    border-bottom: 1px solid #262626;
+    padding-bottom: 15px;
+}
+.bu_instructor_s {
+    padding-bottom: 10px;
+}
+.bu_instructor_p_c1 {
+    border-bottom: 1px solid #262626;
+    margin-bottom: 15px;
+}

@@ -1,10 +1,14 @@
+body {
+    font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+    font-size: .9rem
+}
 .bu_help_provider_container {
     position: relative;
     overflow-y: auto;
     top: 0;
     left: 0;
     right: 0;
-    padding: 1.875rem;
+    padding-bottom: 1.875rem;
 }
 .bu_help_button_1 {
     text-decoration: none;
@@ -19,6 +23,7 @@
 .bu_help_link_1 {
     color: #4F3674;
     font-weight: 700;
+    line-height: 1.2;
 }
 .bu_link_div {
     padding-bottom: 5px;

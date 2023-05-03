@@ -24,6 +24,10 @@ body {
     color: #4F3674;
     font-weight: 700;
     line-height: 1.2;
+    text-decoration: none;
+}
+.bu_help_link_1:hover {
+    text-decoration: underline;
 }
 .bu_link_div {
     padding-bottom: 5px;
@@ -38,4 +42,9 @@ body {
 }
 .bu_help_p_c2 h3 {
     font-size: 1.2rem;
+}
+.bu_fix {
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
